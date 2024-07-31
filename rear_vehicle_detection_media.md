@@ -1,6 +1,6 @@
 ## Media Assets for Rear Vehicle Detection
 
-### Sensor Data Fusion using Kalman Filter
+
 
 Target Object Detection in 3 Lane road 
 
